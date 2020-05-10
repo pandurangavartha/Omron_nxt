@@ -1,0 +1,10 @@
+/nbproject/
+/node_modules
+/node/node_modules
+/logs/access.log
+/logs/error.log
+/out
+/nbproject/private/
+/public/
+nbproject/private/private.xml
+/public/bulkuploads/
